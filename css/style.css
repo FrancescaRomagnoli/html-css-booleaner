@@ -34,6 +34,11 @@ thead {
 
 /* Footer */
 
+h2 {
+    color: grey;
+    font-size: 18px;
+}
+
 .art1 {
     background-image: url(../img/monitor.jpg);
     background-repeat: no-repeat;
