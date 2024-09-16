@@ -1,3 +1,21 @@
-p {
-    color: aqua;
+/* header */
+
+header {
+    background-color: #469dff;
+    background-image: url(../img/pattern.png);
+}
+ 
+#logo {
+    height: 200px;
+    width: 200px;
+}
+
+/* main */
+
+.artinfo {
+    color: #adadad;
+}
+
+.link {
+    text-decoration: none;
 }
