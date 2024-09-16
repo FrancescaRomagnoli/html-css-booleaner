@@ -18,4 +18,8 @@
 
 .link {
     text-decoration: none;
+    color: #149ee6;
+}
+.highlight {
+    background-color: yellow;
 }
