@@ -34,3 +34,30 @@ thead {
 
 /* Footer */
 
+.art1 {
+    background-image: url(../img/monitor.jpg);
+    background-repeat: no-repeat;
+    padding-top: 0%;
+    padding-bottom: 20%;
+    padding-left: 0%;
+    padding-right: 2%;
+    max-width: 250px;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 100%;
+}
+
+.art2 {
+    background-image: url(../img/graph.jpg);
+    background-repeat: no-repeat;
+    padding-top: 0%;
+    padding-bottom: 20%;
+    padding-left: 0%;
+    padding-right: 2%;
+    max-width: 250px;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 100%;
+}
