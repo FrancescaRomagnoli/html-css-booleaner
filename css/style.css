@@ -45,11 +45,7 @@ h2 {
 .art1 {
     background-image: url(../img/monitor.jpg);
     background-repeat: no-repeat;
-    padding-top: 0%;
-    padding-bottom: 20%;
-    padding-left: 0%;
-    padding-right: 2%;
-    max-width: 250px;
+    height: 300px;
     color: white;
     font-size: 20px;
     font-weight: 700;
@@ -59,12 +55,8 @@ h2 {
 .art2 {
     background-image: url(../img/graph.jpg);
     background-repeat: no-repeat;
-    padding-top: 0%;
-    padding-bottom: 20%;
-    padding-left: 0%;
-    padding-right: 2%;
-    max-width: 250px;
     color: white;
+    height: 300px;
     font-size: 20px;
     font-weight: 700;
     line-height: 100%;
